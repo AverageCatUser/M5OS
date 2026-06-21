@@ -1,6 +1,17 @@
-# M5OS
+# M5OS StickS3 EOL
+
+
+Im sorry to say but this version of M5OS will no longer be supported an anymore, I know that was quick. I had great ideas. I had to make a stressful decision of canceling M5OS due to the limitations of M5stickS3, heres great news the M5OS project for M5stickS3 is cancelled but in replace M5OS will now ONLY be available on Cardputer ADV with more features utalizing the keyboard for expanded support, i promise it will be better and enhanced. Im currently thinking on the decision if M5OS Cardputer will be open source or not.
+
+
+
+
+
+
+
+(Archived)
 M5OS is a UI for M5Stack devices, it is an open source project created by Treeouy. 
-M5OS is currently only supported on M5STICKS3, soon we will add support for Cardputer zero.
+M5OS is currently only supported on M5STICKS3, soon we will add support for Cardputer ADV.
 
 
 In M5OS v1.0.0
@@ -30,3 +41,4 @@ M5OS v2.1 will release 7/20/2026, it will fix/add, huge bug fixes, final update 
 
 
 Hope you enjoy my open source project
+Its so sad seeing it all go
