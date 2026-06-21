@@ -21,7 +21,7 @@ I hope in the future i can improve M5OS,
 
 M5OS future plans
 I plan to remove apps like CMD and transfer mode some update
-M5OS v1.1 will release 6/21/2026, it will fix/add minor bugs and change ui
+M5OS v1.1 will release 6/22/2026, it will fix/add minor bugs and change ui
 M5OS v1.2 will release 6/28/2026, it will fix/add huge bugs, remove apps, change ui, and pleasent support
 M5OS v1.3 will release 7/4/2026, it will fix/add minor bugs, more apps, change ui, cardputer ADV support, and being able to save files to flash
 M5OS v1.3.1 will release 7/7/2026, it will fix/add bug fixes for Cardputer ADV, 50/50% chance ui change, StickS3 support fixed
