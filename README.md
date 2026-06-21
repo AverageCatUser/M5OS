@@ -1,7 +1,7 @@
 # M5OS StickS3 EOL
 
 
-Im sorry to say but this version of M5OS will no longer be supported an anymore, I know that was quick. I had great ideas. I had to make a stressful decision of canceling M5OS due to the limitations of M5stickS3, heres great news the M5OS project for M5stickS3 is cancelled but in replace M5OS will now ONLY be available on Cardputer ADV with more features utalizing the keyboard for expanded support, i promise it will be better and enhanced. Im currently thinking on the decision if M5OS Cardputer will be open source or not.
+Im sorry to say but this version of M5OS will no longer be supported an anymore, I know that was quick. I had great ideas. I had to make a stressful decision of canceling M5OS due to the limitations of M5stickS3, heres great news the M5OS project for M5stickS3 is cancelled but in replace M5OS will now ONLY be available on Cardputer ADV with more features utalizing the keyboard for expanded support, i promise it will be better and enhanced. Im currently thinking on the decision if M5OS Cardputer will be open source or not. Cardputer ADV version will release later this or next month estimated date 6/28/2026
 
 
 
